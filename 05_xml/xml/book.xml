@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+    <book sn="SN122556">
+        <name>java入门到弃坑</name>
+        <author>霍德曼</author>
+        <price>9.99</price>
+    </book>
+</books>
